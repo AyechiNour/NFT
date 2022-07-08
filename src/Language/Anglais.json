@@ -1,0 +1,57 @@
+{
+    "navbar":"Buy on OpenSea",
+    "navbarItem1":"About Us",
+    "navbarItem2":"Roadmaps",
+    "navbarItem3":"LookBook",
+    "navbarItem4":"FAQ",
+    "navbarItem5":"Project",
+
+    "HeaderTitle1Part1":"Carbon",
+    "HeaderTitle1Part2":"Base",
+    "HeaderTitle2":"Sell extraordinary",
+    "HeaderTitle3":"Jocker NFTs",
+    "HeaderParagraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae corrupti architecto, ducimus doloribus perspiciatis dolores...",
+    "bouton1":"More info",
+
+    "AboutTitle":"About Us",
+    "AboutTitle1Part1":"Carbon",
+    "AboutTitle1Part2":"Base",
+    "AboutParagraph":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliq lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliq lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.",
+
+    "CreationTitlePart1":"Creation",
+    "CreationTitlePart2":"NFT",
+    "CreationParagraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic assumenda consectetur",
+
+    "PlatformBeforeTitle":"Get Started",
+    "PlatformTitlePart1":"Platform",
+    "PlatformTitlePart2":"Carbon Base",
+    "PlatformParagraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam odio at rerum, cupiditate praesentium explicabo fugiat.",
+    "PlatformInfo":[
+        {
+            "title":"How can I acces to NFT Carbon base ?",
+            "paragraph":"We try to keep returns and exchanges as simple as possible. As long as they meet our criteria, it should be no problem at all to return or exchange them."
+        },
+        {
+            "title":"How can I acces to NFT Carbon base ?",
+            "paragraph":"We try to keep returns and exchanges as simple as possible. As long as they meet our criteria, it should be no problem at all to return or exchange them."
+        }, 
+        {
+            "title":"How can I acces to NFT Carbon base ?",
+            "paragraph":"We try to keep returns and exchanges as simple as possible. As long as they meet our criteria, it should be no problem at all to return or exchange them."
+        }
+    ],
+
+    "CommunityTitle":"Join Our Community",
+    "CommunityParagraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime ab id quaerat? Illo porro adipisci unde dicta, soluta placeat magnam ipsam repudiandae, iure illum magni molestiae ad repellat quidem ratione? Lorem ipsum dolor sit amet consectetur",
+    "CommunityBouton":"Join Community",
+
+    "FAQTitle":"FAQ",
+    "FAQParagraph1":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, facere rerum! Rem qui distinctio culpa, repudiandae esse exercitationem, laboriosam eveniet, odio provident officia repellendus temporibus dignissimos ea nesciunt cum. Iusto.",
+    "FAQParagraph2":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, facere rerum! Rem qui distinctio culpa, repudiandae esse exercitationem, laboriosam eveniet, odio provident officia repellendus temporibus dignissimos ea nesciunt cum. Iusto.",
+    "FAQBouton":"Join Our Discord",
+    
+    "FooterPart1":"Lorem Lepsum",
+    "FooterPart2":"Join Our Discord",
+    "FooterPart3":"& Discover Us",
+    "FooterRights":"2022 all rights reserved"
+}
